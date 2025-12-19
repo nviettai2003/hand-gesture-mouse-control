@@ -16,12 +16,15 @@
     - `EXTRA_OEMESON:append:pn-libcamera = " -Dpipelines=raspberrypi -Dipas=raspberrypi"`
 
 ## 🛠 Technical Stack
-* **Hardware**: **Raspberry Pi 4B**  **Camera Module v2 (Sony IMX219)**
+* **Hardware**: **Raspberry Pi 4B,**  **Camera Module v2 (Sony IMX219)**
 * **Core Language**: **C++** 
 * **Camera Framework**: **libcamera** 
 * **Computer Vision**: **OpenCV** 
 * **AI Engine**: **TensorFlow Lite**
 
 ## 🎥 Demo
-https://github.com/user-attachments/assets/1f460b73-7061-4154-8dcb-68830c886ae9
+
+https://github.com/user-attachments/assets/0b4aef47-7b48-4329-8318-0c183eab861f
+
+
 
